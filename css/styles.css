@@ -1,0 +1,91 @@
+body{font-family:'Montserrat';
+     text-align: center;}
+
+h1,h2,h3,h4,h5,h6{font-family:'Montserrat-Bold', sans-serif;}
+
+h2{
+    font-size: 3rem;
+    line-height:1.5;}
+
+p{color: #8f8f8f;}
+
+.big-heading{font-family:'Montserrat-Black', sans-serif;
+    font-weight:700;
+    font-size:3rem;
+    line-height:1.5;}
+
+.f-icon{color:#6B4F4F;
+     margin-bottom:1rem;}
+
+.f-icon:hover{color:#EED6C4;}
+
+#title{background:#483434;
+      font-family: 'Montserrat', sans-serif;
+      color:#fff;
+     text-align:left;}
+
+.container-fluid{padding:3% 15% 7%;}
+
+.navbar-brand{font-family:'Dancing Script', sans-serif;
+             font-size:3rem;}
+
+.navbar{padding:0 0 4.5rem;}
+
+.nav-item{padding:0 18px;}
+
+.nav-link{font-family:'Montserrat-light', sans-serif;
+          font-size: 1.2rem;}
+
+.brand{font-family:'Dancing Script', sans-serif;}
+
+.download-button{margin: 5% 3% 5% 0;}
+
+#features{padding:7% 15%;}
+
+.feature-box{padding:5%;}
+
+#testimonials{padding:7% 15%;
+    background-color:#483434;
+    color:#fff;}
+.carousel-item{padding:7% 15%;}
+
+.testimonial-image{border-radius:100%;
+margin: 20px;
+width:20%;}
+
+#press{background-color:#483434;
+    text-align:center;}
+
+.press-logo{
+    width:15%;
+margin: 20px 20px 50px;}
+
+#pricing{padding:100px;}
+
+.pricing-column{padding:3% 5%;}
+
+.cat-phone{position:relative;
+           border-radius: 100%;
+        padding-bottom: 0.5rem;
+         margin-left: 10%;}
+
+@media(max-width:1028px)
+{
+    #title{text-align:center;}
+    .cat-phone{margin:auto;
+    width:90%;}
+}
+#cta{background-color:#483434;
+    color:#fff;
+    padding:7% 15%}
+    
+.cta-title{font-family:'Montserrat-bold';
+           font-weight:600;
+           font-size:3.5rem;
+           line-height: 1.5;}
+
+#footer{
+     line-height:2;
+     padding:7% 15%;}
+
+.foot-icon{margin:20px 10px;}
